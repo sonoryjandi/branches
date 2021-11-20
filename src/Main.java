@@ -3,9 +3,11 @@ public class Main {
         System.out.println("hello");
         System.out.println("hello, it's feature");
         System.out.println("hello");
-        System.out.println("Мы в пиве");
-        System.out.println("тест пуш коммит в фиче(чекаут в мейн)");
-        System.out.println("а теперь пишем чухню после мёрджа");
-        System.out.println("тест пуш после удаления ветки фичи");
+        System.out.println("пїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ");
+        System.out.println("пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ(пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ пїЅпїЅпїЅпїЅ)");
+        System.out.println("пїЅ пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ");
+        System.out.println("пїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅ");
+        System.out.println("kjhdfjg");
+        System.out.println("С‚РµСЃС‚ РєРёСЂРёР»Р»РёС†С‹");
     }
 }
