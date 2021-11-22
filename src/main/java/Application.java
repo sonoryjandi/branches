@@ -15,14 +15,10 @@ public class Application {
         System.out.println("We created a company Leon, print non workers");
         System.out.println();
 
-        leon.addNewWorker(alex);
-        leon.addNewWorker(bob);
         leon.printAllWorkers();
         System.out.println("Add Alex and Bob, print all");
         System.out.println();
 
-        leon.deleteWorker(bob);
-        leon.deleteWorker(bob);
         leon.printAllWorkers();
         System.out.println("Del Bob twice, print all");
         System.out.println();
